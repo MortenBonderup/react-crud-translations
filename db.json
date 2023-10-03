@@ -1,15 +1,14 @@
 {
-   "translations" : [
-      {
-	"tid" : 1,
-        "dk": "Hej",
-	"en": "Hi"
-      },
-      {
-        "tid" : 2,
-        "dk": "Godt gået!",
-	"en": "Well done!"
-      }
-    ]
-  }
-  
+  "translations": [
+    {
+      "tid": 1,
+      "dk": "Hej",
+      "en": "Hi"
+    },
+    {
+      "tid": 2,
+      "dk": "Godt gået!",
+      "en": "Well done!"
+    }
+  ]
+}
