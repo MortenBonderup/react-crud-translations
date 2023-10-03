@@ -1,14 +1,19 @@
 {
-  "translations": [
-    {
-      "tid": 1,
+  "translations": {
+    "-NfqOfE4J5FGCXYkQZ67": {
       "dk": "Hej",
-      "en": "Hi"
+      "en": "Hi",
+      "tid": 1
     },
-    {
-      "tid": 2,
+    "-NfqOfE4J2HJCXYkQZ69": {
       "dk": "Godt gået!",
-      "en": "Well done!"
+      "en": "Well done!",
+      "tid": 2
+    },
+    "-NfqOfE4J2FGCXYkQZ63": {
+      "dk": "Godmorgen",
+      "en": "Good morning",
+      "tid": 3
     }
-  ]
+  }
 }
